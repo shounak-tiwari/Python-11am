@@ -1,0 +1,29 @@
+Python : Python is a high level programming language 
+, platform independent 
+, Dynamic programming 
+, 
+source code 
+=>pre-process (#) 1500+ 
+=> compilation of code 
+=> assembly(.obj)
+=>(Assembler)
+=> dll (linking of os )
+ Binary 
+=> machine code 
+
+high level programming => c programming  =>binary language
+
+
+high level (source code file)
+            |
+        jit compiler 
+            |
+        Byte code
+            |
+        python run time environment 
+            |
+        python virtual machine 
+            |
+        executable file 
+            |
+        execute 
