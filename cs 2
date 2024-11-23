@@ -1,0 +1,33 @@
+Real-Life Applications
+Write a program to calculate electricity bills based on consumption slabs.
+Determine the type of clothing recommended for a given temperature range.
+Simulate a simple login system with username and password validation.
+Write a program to decide whether a shop is open or closed based on the current time.
+Determine whether a person can afford an item based on their budget and the item's price.
+Create a traffic light simulation that determines actions for red, yellow, and green lights.
+Write a program to classify ages into groups (e.g., Child, Teen, Adult, Senior).
+Check whether a movie is appropriate for a viewer's age based on its rating (e.g., G, PG, R).
+Simulate an ATM withdrawal process that checks balance, amount, and limits.
+Write a program to recommend meal portions based on a person’s weight and age.
+Advanced-Level (Nested and Complex Logic)
+Determine if a triangle is valid based on its sides (sum of two sides > third side).
+Check if a given year, month, and day form a valid date.
+Write a program to calculate the tax payable based on income slabs.
+Develop a program to decide if a student is eligible for a scholarship based on grades and income.
+Determine the type of quadrilateral based on four given angles.
+Write a program to find whether a given string is a palindrome.
+Implement a program to check if three angles form a valid triangle and classify it.
+Simulate a basic calculator that performs operations based on user input (+, -, *, /).
+Write a program to validate a phone number format.
+Check if a user-input number is a prime number.
+Challenging Problems
+Develop a system to calculate shipping costs based on weight and delivery location.
+Write a program to validate a password based on multiple conditions (length, characters, etc.).
+Implement a grading system for multiple subjects and determine if the student passes overall.
+Create a program to determine if a date falls on a weekend or a weekday.
+Simulate a currency exchange system that handles different currencies and rates.
+Write a program to determine the zodiac sign based on birth date and month.
+Implement a loan eligibility checker based on income, credit score, and age.
+Simulate a shopping cart discount system based on the total purchase amount.
+Write a program to check if a 24-hour time input is valid and classify it as AM or PM.
+Develop a weather alert system that provides advice based on weather conditions (e.g., rain, snow, sun).
