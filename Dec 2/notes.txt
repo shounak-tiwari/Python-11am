@@ -1,0 +1,10 @@
+variable : variable is a reserved memory block but in python we dont have any variables , in python we have refernces 
+
+variable = 1234 (type of class , int , float, complex, ------)
+
+variable name refernce 
+
+variable name of object
+
+
+entity =  class_name()

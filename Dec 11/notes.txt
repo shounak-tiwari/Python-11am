@@ -1,0 +1,9 @@
+data type in python is devide into two types : 
+	1. mutable 
+	2. immutable 
+
+
+ordered v/s unordered 
+
+ordered : Sequence collections 
+
