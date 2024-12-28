@@ -1,0 +1,60 @@
+1. Basic Concepts
+
+What are sequence data types in Python?
+List the three primary sequence data types in Python.
+Explain the difference between mutable and immutable data types.
+Give an example of a mutable sequence data type.
+Give an example of an immutable sequence data type.
+What is indexing in Python sequences?
+Explain the concept of positive and negative indexing.
+What are slicing operations in Python sequences?
+How do you access a specific element in a list?
+How do you access a range of elements in a string?
+2. Lists
+
+Create a list of five different data types.
+How do you add an element to the end of a list?
+How do you insert an element at a specific position in a list?
+How do you remove an element from a list?
+How do you remove an element by its value from a list?
+How do you sort a list in ascending order?
+How do you sort a list in descending order?
+What is list comprehension? Give an example.
+How do you concatenate two lists?
+How do you create a shallow copy of a list?
+How do you create a deep copy of a list?
+3. Tuples
+
+What is a tuple?
+Why are tuples immutable?
+How do you access elements in a tuple?
+How do you unpack a tuple?
+What are some use cases for tuples?
+How do you create a tuple with a single element?
+4. Strings
+
+How do you check the length of a string?
+How do you convert a string to uppercase?
+How do you convert a string to lowercase?
+How do you split a string into a list of words?
+How do you join a list of strings into a single string?
+How do you find the index of a substring within a string?
+How do you replace a substring within a string?
+How do you check if a string starts with a specific prefix?
+How do you check if a string ends with a specific suffix?
+What are escape sequences in strings?
+5. Advanced Concepts
+
+Explain the concept of mutability in the context of sequence data types.
+What are the time and space complexities of common list operations?
+How can you iterate through a sequence data type?
+What is the purpose of the enumerate() function?
+What is the purpose of the zip() function?
+Explain the concept of nested sequences.
+How do you work with nested lists?
+What are some common use cases for sequence data types in real-world applications?
+Write a Python program to reverse a string.
+Write a Python program to check if a string is a palindrome.
+Write a Python program to remove duplicates from a list.
+Write a Python program to find the most frequent element in a list.
+Write a Python program to implement a stack using a list.
