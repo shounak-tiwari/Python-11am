@@ -1,0 +1,11 @@
+operators in python : operators is an entity which perform some operation between one two or more operands 
+
+1. arithmetic operators : this operators is use for perform foundamental operation of mathematics like addition substraction multiplication etc.... 
+
++ : Addition between one / two operands
+- : Sub between one/two operands 
+* : Multiplication one/ two operands 
+/ : Division (/) output (floating/ decimals) like 9 / 2 ==> 4.5 
+% : Division but i want to find my remainder values 
+** : exponentiation powers (a**b) i.e., a to the power of b 
+// : Division and find quotient or int values then we use floor division // 

@@ -1,0 +1,29 @@
+relational operators : operators which able to create or represent some mathematical relations between operands 
+it represent or built mathematical relation between operands
+1. > 
+2. < 
+3. >=
+4. <=
+5. ==
+6. !=
+
+
+logical operators whenever we want to perform some logical operation between operands
+e.g. if you want to fill form of universal informatics data science then you have to know about python and mathematics
+
+1. and : when all true it return true
+2. or : when single true it return true
+3. not : it is use for converting into opposite  suppose that result is true and when put not it change true to false 
+
+
+
+assignments operators(=) : assignment refers assign the values into variable or reference object is also known as equal operators 
+
+source code :
+x = 10
+y = 20 
+print("The value of x is : ",x)
+print("The value of y is : ",y)
+
+
+arithmetic assigment : refers assign the result after performing arithmetic operation between operands 
