@@ -1,0 +1,14 @@
+control statement : control statement control the flow of execution of program...
+
+After compilation, during execution of the compiled file, the block of code that gets executed is determined by runtime input or predefined default values.
+
+python control statement 
+1. if control statement 
+2. if-else control statement 
+3. if elif else control statement
+4. nested if 
+5. nested if else 
+6. match control statement  (py 3.10+)
+7. loops
+    a. while loops 
+    b. for loops
