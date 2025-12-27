@@ -1,0 +1,56 @@
+Use the following strings for ALL questions:
+
+s1 = "Sneha Patel"
+s2 = "Universal Informatics"
+s3 = "Akash Tiwari"
+
+BASIC INDEXING (Positive Index)
+
+Print the first character of s1.
+Print the third character of s2.
+Print the character at index 5 of s3.
+
+Print the last character of s1 using positive index.
+
+Print the second last character of s2 using positive index.
+
+NEGATIVE INDEXING
+
+Print the last character of s3 using negative index.
+
+Print the third character from the end of s1.
+
+Print the first character of s2 using negative indexing.
+
+Print the character at index -6 of s3.
+
+Print the character just before the last one of s2.
+
+INDEX LOGIC & UNDERSTANDING
+
+Print the middle character of s1 using index.
+
+Print the character whose index is len(s2) - 1.
+
+Print the character at index len(s3)//2.
+
+Print the character at index len(s1)//3.
+
+Print the character at index -(len(s2)//2).
+
+TRICKY / CONCEPTUAL INDEXING
+
+Predict the output:
+print(s1[0], s1[-1])
+
+Predict the output:
+print(s2[len(s2) - 3])
+
+Predict the output:
+print(s3[-len(s3)])
+
+Predict the output:
+print(s1[len(s1)//2 - 1])
+
+Is this valid? If yes, what is the output?
+print(s3[-1 + 1])
