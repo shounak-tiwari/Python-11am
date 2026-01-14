@@ -1,0 +1,58 @@
+Here are **5 Python inheritance exercise questions**, arranged from basic to slightly more advanced. These are **questions only** (no solutions yet), suitable for practice or exams.
+
+---
+
+### **Inheritance Exercise – Python**
+
+#### **Question 1: Single Inheritance**
+
+Create a class `Animal` with a method `sound()` that prints `"Animal makes a sound"`.
+Create a subclass `Dog` that inherits from `Animal` and overrides the `sound()` method to print `"Dog barks"`.
+Create an object of `Dog` and call the `sound()` method.
+
+---
+
+#### **Question 2: Using `super()`**
+
+Create a class `Person` with:
+
+* an `__init__` method that accepts `name` and `age`.
+
+Create a subclass `Student` that:
+
+* adds an attribute `student_id`,
+* uses `super()` to call the parent constructor.
+
+Create an object of `Student` and print all its attributes.
+
+---
+
+#### **Question 3: Multilevel Inheritance**
+
+Create:
+
+* a class `Vehicle` with a method `start()`,
+* a subclass `Car` that inherits from `Vehicle`,
+* a subclass `ElectricCar` that inherits from `Car` and has a method `charge()`.
+
+Create an object of `ElectricCar` and call both `start()` and `charge()` methods.
+
+---
+
+#### **Question 4: Method Overriding**
+
+Create a class `Employee` with a method `calculate_salary()` that returns a fixed salary of `30000`.
+Create a subclass `Manager` that overrides `calculate_salary()` to return `50000`.
+Create objects of both classes and print their salaries.
+
+---
+
+#### **Question 5: Hierarchical Inheritance**
+
+Create a base class `Shape` with a method `area()` that prints `"Area not defined"`.
+Create two subclasses:
+
+* `Rectangle` with attributes `length` and `width`,
+* `Circle` with attribute `radius`.
+
+Each subclass should override the `area()` method to calculate and print its area.
